@@ -1,6 +1,3 @@
-Here's an enhanced `README.md` for the [6-degrees-of-wikipedia](https://github.com/rohitpugazh/6-degrees-of-wikipedia) repository:
-
-```markdown
 # 6 Degrees of Wikipedia
 
 ## Overview
@@ -141,6 +138,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions or issues, please open an issue on GitHub or contact the repository owner.
 
-```
-
-This `README.md` provides a comprehensive overview of the project, including its purpose, setup instructions, usage guidelines, and contribution protocols. It ensures that users and contributors have clear and concise information to understand and engage with the project effectively. 
